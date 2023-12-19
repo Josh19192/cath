@@ -1,0 +1,17 @@
+C:\Users\CATHERINE MEDILO\AppData\Local\Temporary Projects\Water Billing System\bin\Debug\Water Billing System.exe.config
+C:\Users\CATHERINE MEDILO\Desktop\Water Billing System\Water Billing System\bin\Debug\Water Billing System.exe.config
+C:\Users\CATHERINE MEDILO\Desktop\Water Billing System\Water Billing System\bin\Debug\Water Billing System.exe
+C:\Users\CATHERINE MEDILO\Desktop\Water Billing System\Water Billing System\bin\Debug\Water Billing System.pdb
+C:\Users\CATHERINE MEDILO\Desktop\Water Billing System\Water Billing System\obj\Debug\Water Billing System.csprojResolveAssemblyReference.cache
+C:\Users\CATHERINE MEDILO\Desktop\Water Billing System\Water Billing System\obj\Debug\Water_Billing_System.logInForm.resources
+C:\Users\CATHERINE MEDILO\Desktop\Water Billing System\Water Billing System\obj\Debug\Water_Billing_System.MainMenu.resources
+C:\Users\CATHERINE MEDILO\Desktop\Water Billing System\Water Billing System\obj\Debug\Water_Billing_System.Properties.Resources.resources
+C:\Users\CATHERINE MEDILO\Desktop\Water Billing System\Water Billing System\obj\Debug\Water Billing System.csproj.GenerateResource.Cache
+C:\Users\CATHERINE MEDILO\Desktop\Water Billing System\Water Billing System\obj\Debug\Water Billing System.exe
+C:\Users\CATHERINE MEDILO\Desktop\Water Billing System\Water Billing System\obj\Debug\Water Billing System.pdb
+C:\Users\CATHERINE MEDILO\Desktop\Water Billing System\Water Billing System\obj\Debug\Water_Billing_System.BillingForm.resources
+C:\Users\CATHERINE MEDILO\Desktop\Water Billing System\Water Billing System\obj\Debug\Water_Billing_System.ClientsForm.resources
+C:\Users\CATHERINE MEDILO\Desktop\Water Billing System\Water Billing System\obj\Debug\Water_Billing_System.NewUserForm.resources
+C:\Users\CATHERINE MEDILO\Desktop\Water Billing System\Water Billing System\obj\Debug\Water_Billing_System.UsersForm.resources
+C:\Users\CATHERINE MEDILO\Desktop\Water Billing System\Water Billing System\bin\Debug\MySql.Data.dll
+C:\Users\CATHERINE MEDILO\Desktop\Water Billing System\Water Billing System\obj\Debug\Water_Billing_System.Viewbilling.resources
